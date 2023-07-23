@@ -1,0 +1,83 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA-256-Digest-Manifest: NY80l0j4SSHRGDL5IRXdlCwK68pCUOEQii9mY89Xo1Q=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 0+aO30KOzLNze9tYPLYPE+lQE45+qh1fr5Tx4mUd7JY=
+
+Name: res/drawable-nxhdpi-v4/screen_round_corner_bottom.png
+SHA-256-Digest: N6aSdhjjJnk/MDp530ByULDLJGC+su4eIWapxBdNtc0=
+
+Name: res/drawable-nxhdpi-v4/screen_round_corner_bottom_rot180.png
+SHA-256-Digest: +tgcgMyoFD27ceQHGP/m6n+nVDRPmmlVhipfW5YRMzg=
+
+Name: res/drawable-nxhdpi-v4/screen_round_corner_bottom_rot270.png
+SHA-256-Digest: Kh8JkLaORTdBeHY8cDEy9uaQ/HQpuQyd97s3N2g4ltQ=
+
+Name: res/drawable-nxhdpi-v4/screen_round_corner_bottom_rot90.png
+SHA-256-Digest: 4vYzIEdOV5E/RnrqKP5h4C1mVGOBw+2c4gCHHCWyXxA=
+
+Name: res/drawable-nxhdpi-v4/screen_round_corner_top.png
+SHA-256-Digest: c73A2r318zGDR7WI3caG4ohevGH69BONT5oyguySRLA=
+
+Name: res/drawable-nxhdpi-v4/screen_round_corner_top_rot180.png
+SHA-256-Digest: WM1V1b4+HNDA6XApCQUQUREZo0sk2GlKvPY1COk8k8c=
+
+Name: res/drawable-nxhdpi-v4/screen_round_corner_top_rot270.png
+SHA-256-Digest: 576FHtPoDgaITDSGmZursPlH8oXpq9SvwD4S15wZgMY=
+
+Name: res/drawable-nxhdpi-v4/screen_round_corner_top_rot90.png
+SHA-256-Digest: qPCOIaCPdsDyNPP0OlQoaQ39g1HLVuBx8CuvL8YfJ+Y=
+
+Name: res/drawable-xxhdpi-v4/screen_round_corner_bottom.png
+SHA-256-Digest: +2svS6tI/kuvoxPIp3bLPKwXHX/Di7ulfEM0bZNnlsk=
+
+Name: res/drawable-xxhdpi-v4/screen_round_corner_bottom_rot180.png
+SHA-256-Digest: iHiWdAgpC4ZiJQfn6ZgCBSzhIgodvhJEcer1a32rTho=
+
+Name: res/drawable-xxhdpi-v4/screen_round_corner_bottom_rot270.png
+SHA-256-Digest: 2gFZfDnzM3xREfK4txyG82I54KzMmkjRVCfPiAEzNoE=
+
+Name: res/drawable-xxhdpi-v4/screen_round_corner_bottom_rot90.png
+SHA-256-Digest: CD4/VEti1Ys4QuKocHuIMlvt6rncRqlM5t1TaTFtBhQ=
+
+Name: res/drawable-xxhdpi-v4/screen_round_corner_top.png
+SHA-256-Digest: 8XzSwDIRuNTquUThQJoohhSzovq+qXYYeT22oHycV2w=
+
+Name: res/drawable-xxhdpi-v4/screen_round_corner_top_rot180.png
+SHA-256-Digest: 9tPgG8k/huHFbBGF6jw3koQmwFjiFUQuXm+/iF+/pKM=
+
+Name: res/drawable-xxhdpi-v4/screen_round_corner_top_rot270.png
+SHA-256-Digest: y3vpf/PgRE1CXpg8dQd1NzYidbCkNc5CCb66Qzd3b9E=
+
+Name: res/drawable-xxhdpi-v4/screen_round_corner_top_rot90.png
+SHA-256-Digest: K6BD5NbXi+LWNSJLuRkYkwZVGY/SWd8jxcRy/Vjq//0=
+
+Name: res/drawable/screen_round_corner_bottom.png
+SHA-256-Digest: s6LDl967A1agHjr+0EmG4yYbSEaQRh+8uTMbkk+G3TA=
+
+Name: res/drawable/screen_round_corner_bottom_rot180.png
+SHA-256-Digest: GfNcfK4rlTW/L75aiAVsi89MLbl5bo6p66dzZCa/a6k=
+
+Name: res/drawable/screen_round_corner_bottom_rot270.png
+SHA-256-Digest: YVBOr/ILWa8nS5IpJSRrT/6x6hJSqz7XHCMSbOS1SuA=
+
+Name: res/drawable/screen_round_corner_bottom_rot90.png
+SHA-256-Digest: aHIoD0NScHcd4m6zcHE5XYkrOCtYHs2tm0XCQyEXKoo=
+
+Name: res/drawable/screen_round_corner_top.png
+SHA-256-Digest: 44fGK0D8/SBIe+QNx0LomrSHIhM/YFmq2+zxhsU1ISA=
+
+Name: res/drawable/screen_round_corner_top_rot180.png
+SHA-256-Digest: vSJZgFZjwOIn4/HyOYpv1btW5MuNfRcg2xcYLJDH6mA=
+
+Name: res/drawable/screen_round_corner_top_rot270.png
+SHA-256-Digest: womVsKCnSIKvBVAbx5IIeMaUZXfTmpuTYDuhaADTTWU=
+
+Name: res/drawable/screen_round_corner_top_rot90.png
+SHA-256-Digest: Tkea7syvO7UNhHvrD/83W8PFfBFFiyFXTaZaM9f5vAA=
+
+Name: resources.arsc
+SHA-256-Digest: A6xJJlpWRhCNz9qv2CwFeCEEZhLDoYq9biJS+mN48Xs=
+
