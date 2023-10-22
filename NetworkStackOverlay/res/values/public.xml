@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="bool" name="config_dhcp_client_hostname" id="0x7f010000" />
+    <public type="string" name="config_captive_portal_http_url" id="0x7f020000" />
+    <public type="string" name="config_captive_portal_https_url" id="0x7f020001" />
+</resources>

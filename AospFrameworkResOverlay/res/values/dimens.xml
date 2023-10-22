@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="CameraCircleBlackView_height">105.0px</dimen>
+    <dimen name="CameraCircleBlackView_radius">35.0px</dimen>
+    <dimen name="CameraCircleBlackView_width">1080.0px</dimen>
+    <item type="dimen" name="config_screenBrightnessDimFloat">9.7704E-4</item>
+    <item type="dimen" name="config_screenBrightnessSettingDefaultFloat">0.074743524</item>
+    <item type="dimen" name="config_screenBrightnessSettingMaximumFloat">1.0</item>
+    <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">9.7704E-4</item>
+</resources>
